@@ -1,4 +1,4 @@
-## Q&A
+## LLM_Q&A
 
 The Question Answer bot project is a sophisticated application designed to assist users in finding optimal answers by leveraging OpenAI's powerful API. 
 The implementation utilizes the langchain framework, seamlessly integrating with various language models.
